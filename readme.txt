@@ -41,6 +41,10 @@ If you require more dedicated assistance, consider using [Semiologic Pro](http:/
 
 == Change Log ==
 
+= 4.1.3 =
+
+- Fix non static calling warning
+
 = 4.1.2 =
 
 - WP 3.5 compat
