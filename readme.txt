@@ -46,6 +46,10 @@ If you require more dedicated assistance, consider using [Semiologic Pro](http:/
 
 == Change Log ==
 
+= 4.3 =
+
+- Code refactoring
+
 = 4.2.1 =
 
 - WP 3.8 compat
