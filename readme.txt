@@ -8,12 +8,13 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-> *This plugin has been retired.  No further development will occur on it.*
-
 Lets you add posts to your front page on an opt-in basis.
 
 
 == Description ==
+
+
+> *This plugin has been retired.  No further development will occur on it.*
 
 The Opt-In Front Page plugin lets you add posts to your front page on an opt-in basis, rather than remove posts on an opt-out basis. This allows you to manage any number of asides categories.
 
